@@ -1,0 +1,28 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+~$*
+
+# Archivos de Office temporales
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos comprimidos grandes
+*.zip
+*.rar
+*.7z
+
+# Archivos de log
+*.log
+
+# Archivos de caché
+.cache/
